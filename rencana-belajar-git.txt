@@ -1,0 +1,7 @@
+RENCANA BELAJAR GIT
+
+- Cari pengertian git
+* dari artikel
+* dari youtube
+- Nonton tutorial project git
+- Praktekin
