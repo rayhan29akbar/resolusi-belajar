@@ -3,7 +3,10 @@ RENCANA BELAJAR GIT
 - Cari pengertian git
 * dari artikel
 * dari youtube
+ ^ chanel unpas
 - Nonton tutorial project git
+ ^ chanel unpas
+- Praktekin
 - Lagi dipraktekin
 *sambil dicatet
  ^ sambil nonton tutorial
