@@ -4,5 +4,6 @@ RENCANA BELAJAR GIT
 * dari artikel
 * dari youtube
 - Nonton tutorial project git
-- Praktekin
 - Lagi dipraktekin
+*sambil dicatet
+ ^ sambil nonton tutorial
